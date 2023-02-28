@@ -1,6 +1,7 @@
 # Embedded-C-course-work-project
 
-IDE Stm31CUbe mX
-HAL libraries used 
+IDE Stm31Cube mX
+HAL libraries used for STM32701rB module. 
+
 
 
